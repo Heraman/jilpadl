@@ -2,6 +2,10 @@
   "name": "jilpadl",
   "version": "1.0.4",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Heraman/jilpadl.git"
+  },
   "keywords": [
     "Tiktok",
     "Instagram"
