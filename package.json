@@ -1,0 +1,17 @@
+{
+  "name": "jilpadl",
+  "version": "1.0.4",
+  "main": "index.js",
+  "keywords": [
+    "Tiktok",
+    "Instagram"
+  ],
+  "author": "Zilfa Ardiansyah",
+  "license": "MIT",
+  "description": "scraper Media Sosial",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "qs": "^6.14.0"
+  }
+}
